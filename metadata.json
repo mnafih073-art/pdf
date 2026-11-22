@@ -1,0 +1,6 @@
+{
+  "name": "PDFSwift",
+  "description": "Fast, private browser-based PDF studio to convert images, Word, Excel, and PowerPoint to and from PDF, merge, split, remove, and extract pages without registration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
